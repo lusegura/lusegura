@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hola soy Lucia Segura👋
+### Soy estudiante de la Licenciatura en Sistemas en la Universidad ORT Uruguay y ### me apasiona construir soluciones eficientes a través del código. Actualmente ### me enfoco en fortalecer mis habilidades en desarrollo de software y gestión de datos.
 <!--
 **lusegura/lusegura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
