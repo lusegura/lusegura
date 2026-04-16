@@ -1,16 +1,11 @@
-# Hola soy Lucia Segura👋
-### Soy estudiante de la Licenciatura en Sistemas en la Universidad ORT Uruguay y ### me apasiona construir soluciones eficientes a través del código. Actualmente ### me enfoco en fortalecer mis habilidades en desarrollo de software y gestión de datos.
-<!--
-**lusegura/lusegura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola soy Lucia Segura👋
+#### Soy estudiante de Licenciatura en Sistemas en la Universidad ORT Uruguay y me apasiona construir soluciones eficientes a través del código. Actualmente me enfoco en fortalecer mis habilidades en desarrollo de software y gestión de datos.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tecnologías y Herramientas
+* *** Lenguajes: *** Java, JavaScript, SQL.
+* *** Frontend: *** HTML, CSS, React.
+* *** Backend: *** Node.js, Express.
+* *** Bases de Datos: *** MySQL Server, MySQL Workbench, Oracle Database.
+* *** Análisis y Visualización de Datos: *** Power BI, Excel, Looker.
+* *** IDEs y Desarrollo: *** NetBeans, Visual Studio Code, Visual Studio, Git, GitHub.
+* *** Otros: *** OBS Studio.
